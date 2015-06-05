@@ -6,7 +6,7 @@ https://nodejs.org/
 protractor: download from github here:
 https://github.com/angular/protractor
 
-protractor-cucumber: install protractor-cucumber with this command:
+protractor-cucumber: navigate to "protractor-examples" and run this command to add the protractor-cucumber dependancy:
 npm install protractor-cucumber --save-dev
 
 protractor: install protractor globally with this command:
